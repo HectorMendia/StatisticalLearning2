@@ -8,7 +8,10 @@ Statistical Learning 2
 <a href="https://github.com/HectorMendia/StatisticalLearning2/blob/master/Practica2_PCA_tNSE.ipynb">Practica 2: PCA y t-SEA </a>
 
 
-<a href="https://github.com/HectorMendia/StatisticalLearning2/blob/master/Practica3_Dimensionalidad.ipynb">Madicion de dimesionalidad</a>
+<a href="https://github.com/HectorMendia/StatisticalLearning2/blob/master/Practica3_Dimensionalidad.ipynb">Practica 3: Madicion de dimesionalidad</a>
+
+
+<a href="https://github.com/HectorMendia/StatisticalLearning2/blob/master/Practica3_Dimensionalidad.ipynb">Practica 4: XOR y funciones AND y OR</a>
 
 
 
