@@ -17,3 +17,8 @@ Statistical Learning 2
 <a href="https://github.com/HectorMendia/StatisticalLearning2/blob/master/Practica5_FordwardPropagation.ipynb">Practica 5: Forward propagation y representaciones intermedias</a>
 
 
+<a href="https://github.com/HectorMendia/StatisticalLearning2/blob/master/Practica6_backpropagation.ipynb">Practica 5: Forward propagation y representaciones intermedias</a>
+
+
+
+
