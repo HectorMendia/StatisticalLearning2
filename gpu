@@ -78,3 +78,12 @@ Thu Sep 17 17:13:23 2020
 |    0   N/A  N/A     15460      C   ...rams\Anaconda3\python.exe    N/A      |
 +-----------------------------------------------------------------------------+
 
+from tensorflow.python.keras.layers import GlobalAveragePooling2D, Dense, Input
+from tensorflow.python.keras.applications.xception import Xception  
+
+inp = Input(shape=(299, 299, 3))
+base_model = Xception(include_top=False, input_tensor=inp, weights='imagenet')
+y = base_model.layers[-1].output
+y = GlobalAveragePooling2D()(y)
+y = Dense(4, activation='sigmoid')(y)
+model = Model(inputs=inp, outputs=y)
