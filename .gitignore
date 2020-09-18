@@ -1,5 +1,6 @@
 *.npz
 *.npy
+*.ckpt
 
 ./Geolife1.3
 /Geolife1.3
@@ -12,5 +13,4 @@ derimg
 
 bbox_data.csv
 
-cnn.ckpt
 
