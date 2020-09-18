@@ -1,3 +1,5 @@
+*.npz
+
 ./Geolife1.3
 /Geolife1.3
 Geolife1.3
@@ -6,4 +8,7 @@ Geolife1.3
 /derimg
 derimg
 
+
 bbox_data.csv
+
+
