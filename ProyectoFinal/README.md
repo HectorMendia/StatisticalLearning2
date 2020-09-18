@@ -1,15 +1,15 @@
 Proyecto final
 
-Red neuronal feed forward/MLP
+<a href="https://github.com/HectorMendia/StatisticalLearning2/blob/master/ProyectoFinal/Parte1.ipynb">Red neuronal feed forward/MLP</a>
 
 
 
-Red Neuronal Convolucional
+<a href="https://github.com/HectorMendia/StatisticalLearning2/blob/master/ProyectoFinal/Parte2.ipynb">Red Neuronal Convolucional</a>
 
 
 
 
-Red Neuronal Recurrente
+<a href="https://github.com/HectorMendia/StatisticalLearning2/blob/master/ProyectoFinal/Parte3.ipynb">Red Neuronal Recurrente</a>
 
 
 
