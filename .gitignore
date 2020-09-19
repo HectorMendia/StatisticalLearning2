@@ -1,6 +1,7 @@
 *.npz
 *.npy
 *.ckpt
+*.bin
 
 ./Geolife1.3
 /Geolife1.3
@@ -12,5 +13,5 @@ derimg
 
 
 bbox_data.csv
-
-
+elmo_3*
+train.csv

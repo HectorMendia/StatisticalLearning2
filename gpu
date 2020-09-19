@@ -1,5 +1,9 @@
 pip install -U tensorflow_estimator
 
+*** posiblemente problematico
+pip install tf-nightly
+
+
 [
     name: "/device:CPU:0"
     device_type: "CPU"
